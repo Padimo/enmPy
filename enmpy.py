@@ -76,12 +76,10 @@ elif option == 1:
                 print("Fmag={x}".format(x=Fmag))
                 try:
                     Fx += Fmag * ((tcx-qx)/float(r))
-                    print(Fmag * ((tcx-qx)/float(r)))
                 except:
                     print("no x component")
                 try:
                     Fy += Fmag * ((tcy-qy)/float(r))
-                    print(Fmag * ((tcy-qy)/float(r)))
                 except:
                     print("no y component")
                 print("Fx={x}\nFy={y}".format(x=Fx, y=Fy))
