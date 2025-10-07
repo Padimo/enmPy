@@ -6,4 +6,7 @@ On a computer:
 ```python3 enmpy.py```
 
 On the TI 84 Plus CE Python Edition:
-Upload enmpy.py to the calculator. It will only show up in the Python app if loaded into RAM! 
+Upload ```enmpy.py``` to the calculator. It will only show up in the Python app if loaded into RAM! 
+
+# Integral Calculator
+Work in progress, very very broken. Not nearly as good as https://integral-calculator.net which is much more complete. 
