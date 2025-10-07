@@ -86,6 +86,7 @@ elif option == 1:
                     print("no y component")
                 print("Fx={x}\nFy={y}".format(x=Fx, y=Fy))
             print("Fx={x}\nFy={y}".format(x=Fx, y=Fy))
+            print("Fmag={mag}")
         except ValueError:
             print("Input numbers!")
 elif option==2:
