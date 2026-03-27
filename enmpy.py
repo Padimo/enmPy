@@ -155,3 +155,43 @@ elif option==2:
         print("coming soon!")
     elif(solve == 3):
         print("comign soon!")
+
+# B-field of long wire: 
+# 10,000 gauss = 1 tesla
+# F = qv x B = qvBsin
+# r = mv/qB
+# T = 2πm/qB (derived by v=2πr/T)
+# F = Il x B
+# dF = IdlBsinO
+
+# Hall Effect
+# Using FB and FE
+# V = (IlB)/(neA)
+# l is length of potential
+# A is cross sectional area
+# A and l are orthogonal
+# V = Blvd vd=drift velocity
+# U = -u.B = -IAB
+# u is dipole moment
+
+# B of long straight wire
+# B = uI/2πr u=u_0
+
+# Parallel wires: use above
+# use double right hand 
+# (tuck thumb in left)
+
+# B field of current loop
+# B = uIO/4πr for arc
+# B = uI/4r for full loop
+# u=u_0
+
+# loop far away: 
+# u0*u/(2π(y^2+r^2)^3/2)
+
+# Ampere
+# int(Bdl)=uI
+# long thick wire radius a
+# B = (I_0ru_0)/(2πa^2)
+
+# solenoid: B = Nu_0I/L = nu_0I
